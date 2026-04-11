@@ -29,12 +29,6 @@ Built 23+ production AI systems in 3 months. Currently: Jobot, Snapwise, Orbit A
 
 ---
 
-## 📊 GitHub Stats
-
-![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharonds&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 🌐 Find Me
 
 [![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://www.sharonsciammas.com/projects)
