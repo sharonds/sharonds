@@ -16,8 +16,9 @@ Built 23+ production AI systems in 3 months. Currently: Jobot, Snapwise, Orbit A
 | [Snapwise](https://www.sharonsciammas.com/projects) | AI workflow systems for agencies — hospitality, ops, e-commerce |
 | [Orbit AI](https://www.sharonsciammas.com/projects) | Terminal-based CRM built for AI agents |
 | [CheckApp](https://www.checkapp.xyz/) | AI content checker that runs before you publish |
-| [ReelZ] | Coming very soon 👀 - AI flow that truns your YouTubes into ReelZ, in mintues |
-| [Joopy] | Coming very soon 👀 - Build production ready SaaS in 1 day |
+| ReelZ | Coming very soon 👀 - AI flow that truns your YouTubes into ReelZ, in mintues |
+| Joopy | Coming very soon 👀 - Build production ready SaaS in 1 day |
+| [Eventually](https://www.eventually.one/) | An event ticketing platform based for community builders |
 
 
 ---
