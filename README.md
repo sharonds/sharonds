@@ -3,11 +3,11 @@
 AI Transformation & Enablement  | 10y in Growth + 10y in Data | AI Open-Source Builder
 
 20 years across engineering, product, marketing, and growth:
-→ Data Engineer & Machine Learning Engineering Manager
-→ Head of BI 
-→ Product leadership
-→ Marketing Director
-→ Strategic Advisor and Mentor 
+- Data Engineer & Machine Learning Engineering Manager
+- Head of BI 
+- Product management 
+- Marketing Director
+- Strategic Advisor & Mentor 
 
 *****
 
