@@ -1,10 +1,32 @@
 # Sharon Sciammas
 
-**AI & Growth Leader · Builder · Systems Architect**  
-20 years from data engineering to CMO — now building the agent economy.
+AI Transformation & Enablement  | 10y in Growth + 10y in Data | AI Open-Source Builder
 
-Ex Amazon · Ex Adobe · Co-founded Europe's largest blockchain community (8 cities, 4,000 members)  
-Built 23+ production AI systems in 3 months. Currently: Jobot, Snapwise, Orbit AI.
+20 years across engineering, product, marketing, and growth:
+→ Data Engineer & Machine Learning Engineering Manager
+→ Head of BI 
+→ Product leadership
+→ Marketing Director
+→ Strategic Advisor and Mentor 
+
+*****
+
+🤓 Expertise
+▫️ Designing AI-first marketing strategies and tactics.
+▫️ Marketing, Community and growth strategies.
+▫️ Building & leading high-impact growth teams.
+
+*****
+
+🤓 What I do:
+▫️ Build communities and ecosystems where founders thrive
+▫️ Design AI-first systems that transform how companies operate
+▫️ Lead teams through 0-to-1 innovation and scaling
+
+📊 Technical depth:
+▫️ 10 years in data & analytics: database/ML engineering to Head of BI
+▫️ I code (Claude Code CLI, multi-agent systems, workflow automation)
+▫️ Built AI-native operations at scale
 
 ---
 
